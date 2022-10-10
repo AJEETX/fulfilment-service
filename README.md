@@ -16,3 +16,13 @@
 - resources: For all static resources in your project. For example, images.
 - tools: Utility directory for development purpose. for example, build scripts, rename scripts. Usually contains .sh, .cmd files for example.
 - ignore, linting files, etc
+
+## Github Branching strategy options:
+- Trunk based development
+- Feature based development
+
+## PR approval and merge process:
+- TBD
+
+## ReadMe template
+- create self explanatory readme  with complete details to setup, configure, run applications
